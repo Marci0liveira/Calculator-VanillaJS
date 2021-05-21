@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marci0liveira/calculator.git"
+  },
+  "author": "Marcio Coutinho de Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marci0liveira/calculator/issues"
+  },
+  "homepage": "https://github.com/Marci0liveira/calculator#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
