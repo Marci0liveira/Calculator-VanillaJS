@@ -1,1 +1,1 @@
-Simple Calculator built using Javascript
+Simple VanillaJS calculator, strongly based on **WebDevSimplified's project**
